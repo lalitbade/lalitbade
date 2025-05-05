@@ -17,7 +17,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer with a strong background in web technologies and a keen interest in Cloud Computing. I specialize in building robust web applications, with expertise in React.js, Node.js, Django, and various cloud platforms. I am passionate about building scalable solutions and optimizing performance.</p>
+<p align="left">I am a Full Stack Developer with a strong background in web technologies and a keen interest in Cloud Computing. I specialize in building robust web applications, with expertise in React.js, Node.js, Express.js, and various cloud platforms. I am passionate about building scalable solutions and optimizing performance.</p>
 
 - ✨ Lifelong learner, always excited to improve.
 - 🌱 Currently focusing on DevOps, and Cloud Computing (AWS & Azure).
