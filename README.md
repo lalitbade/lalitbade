@@ -1,10 +1,6 @@
 <!--Banner-->
 ![Lalit Bade Banner Image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)
 
-<!--Header Image for Dark Theme-->
-<div align="center">
-  <img src="https://img.shields.io/static/v1?label=Welcome+to+My+Profile&message=Lalit+Bade&color=2e3b4e&style=for-the-badge&logo=github&logoColor=white" alt="Dark Theme Header"/>
-</div>
 
 <!--Night Owl image-->
 <div>
@@ -12,8 +8,8 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ʟᴀʟɪᴛ ʙᴀᴅᴇ! 
-*Full Stack Developer | B.Tech in Computer Science Engineering*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ʟᴀʟɪᴛ! 
+*Full Stack Developer*
 <br /> 
 
 <!--Start Intro-->               
